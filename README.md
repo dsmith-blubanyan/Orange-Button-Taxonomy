@@ -32,5 +32,5 @@ Changes to the taxonomy are organized according to table below.
 | Change a term description or sample value | Minor |
 | Correct an error that causes problems for users | Patch |
 
-If anything is unclear or you have any questions please feel free to email us at: <support@sunspec.org>
+If anything is unclear or you have any questions, please feel free to email us at: <support@sunspec.org>
 
